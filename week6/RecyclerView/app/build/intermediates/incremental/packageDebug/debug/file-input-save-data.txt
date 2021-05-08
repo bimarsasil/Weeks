@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 08 16:36:08 AEST 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\61416\\Dropbox\\Mobile Developemnt\\weeks\\week6\\RecyclerView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

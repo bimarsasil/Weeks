@@ -1,0 +1,4 @@
+#Sat May 08 16:36:00 AEST 2021
+base.0=C\:\\Users\\61416\\Dropbox\\Mobile Developemnt\\weeks\\week6\\RecyclerView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
